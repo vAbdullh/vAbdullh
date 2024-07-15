@@ -1,13 +1,7 @@
 <br clear="both">
 <h1 align="center">Abdullah</h1>
-
-###
-
 <br clear="both">
 <h2 align="left">👾 Who Am I?</h2>
-
-###
-
 <br clear="both">
 <h6 align="left">I'm a third-year IT student at KAU, on my way to becoming a web developer and future software engineer. 💻</h6>
 
