@@ -8,6 +8,7 @@
 <p align="left">Whether it's a project or just friendly chat, let's connect.</p>
 <a href="mailto:Abdullah.Mansour2@icloud.com">Abdullah.Mansour2@icloud.com</a>
 <br clear="both">
+<br clear="both">
 <h2 align="left">💻 Skill Set</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="html5 logo"  />
