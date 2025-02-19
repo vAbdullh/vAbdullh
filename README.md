@@ -6,7 +6,7 @@
 <br clear="both">
 <h2 align="left">📞 Contact Information</h2>
 <p align="left">Whether it's a project or just friendly chat, let's connect.</p>
-<a href="mailto:Abdullah.Mansour2@icloud.com">Abdullah.Mansour2@icloud.com</a>
+<a href="mailto:contact@abdullh.tech">contact@abdullh.tech</a>
 <br clear="both">
 <h2 align="left">💻 Skill Set</h2>
 <div align="center">
