@@ -1,5 +1,5 @@
 <h2 align="left">👾 Who Am I?</h2>
-<h6 align="left">I'm a third-year IT student at KAU, on my way to becoming a web developer and future software engineer. 💻</h6>
+<h6 align="left"> IT student at KAU, on my way to becoming a web developer and future software engineer. 💻</h6>
 <br clear="both">
 <h2 align="left">📝 Education</h2>
 <h6 align="left">IT student at King Abdulaziz University, Jeddah, from 2022 to present.</h6>
